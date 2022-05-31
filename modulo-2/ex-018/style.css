@@ -1,0 +1,17 @@
+@charset "UTF-8";
+
+body {
+
+    font-family: 'Updock', cursive, sans-serif;
+    font-size: 1.7em;
+    font-weight: normal;
+    color: blue;
+}
+
+p {
+
+    font-family: 'Ms Madi', cursive; ;
+    color: blueviolet;
+    font-size: 1.1em;
+    
+}
